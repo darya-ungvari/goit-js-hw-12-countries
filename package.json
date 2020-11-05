@@ -17,6 +17,7 @@
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1"
   },
+  "homepage": "https://github.com/darya-ungvari/goit-js-hw-12-countries/blob/main/README.md",
   "dependencies": {
     "lodash.debounce": "^4.0.8"
   }
